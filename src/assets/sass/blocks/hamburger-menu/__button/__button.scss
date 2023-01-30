@@ -21,7 +21,6 @@
 .hamburger-menu__button > span::after {
   display: block;
   position: absolute;
-  left: 10px;
   width: 20px;
   height: 3px;
   background-color: $grey;
@@ -34,4 +33,9 @@
 .hamburger-menu__button > span::after {
   content: '';
   top: 8px;
+}
+
+.hamburger-menu__button > span {
+  content: '';
+  left: 8px;
 }

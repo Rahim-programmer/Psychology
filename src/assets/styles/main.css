@@ -984,6 +984,14 @@ hr {
 left: 19px ;
 }
 
+.span-articles{
+  left: 19px;
+}
+
+.span-edu{
+  left: 19px;
+}
+
 .hamburger-menu__button > span::before {
   content: "";
   top: -8px;
